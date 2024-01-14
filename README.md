@@ -22,6 +22,11 @@ Landing page
 
 ### Screenshot
 
+![Uploading Screenshot 2024-01-14 at 10.06.26 PM.png…]()
+
+![Uploading Screenshot 2024-01-14 at 10.08.55 PM.png…]()
+
+![Uploading Screenshot 2024-01-14 at 10.08.59 PM.png…]()
 
 ### Links
 
@@ -33,7 +38,7 @@ Landing page
 ### Built with
 
 - Semantic HTML5 markup
--Bootstrap CSS Library
+  -Bootstrap CSS Library
 - [React](https://reactjs.org/) - JS library
 
 ### What I learned
