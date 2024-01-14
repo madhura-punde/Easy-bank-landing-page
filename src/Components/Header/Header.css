@@ -1,0 +1,33 @@
+ul {
+  white-space: nowrap;
+  list-style-type: none;
+  float: right;
+  margin-right: 300px;
+  margin-top: 16px;
+}
+
+li {
+  display: inline;
+  margin: 25px;
+}
+
+.headerImg {
+  margin-top: 16px;
+  width: 150px;
+  color: white;
+  background-color: white;
+}
+
+.header {
+  position: relative;
+  height: 85px;
+  width: 100%;
+  background-color: hsl(0, 0%, 98%);
+  z-index: 2;
+}
+
+.btnRadius {
+  border-radius: 25px;
+  /* color: hsl(136, 65%, 51%); */
+  /* color: hsl(192, 70%, 51%); */
+}
