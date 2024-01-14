@@ -22,6 +22,7 @@ Landing page
 
 ### Screenshot
 
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -32,7 +33,7 @@ Landing page
 ### Built with
 
 - Semantic HTML5 markup
-  -Bootstrap CSS Library
+-Bootstrap CSS Library
 - [React](https://reactjs.org/) - JS library
 
 ### What I learned
@@ -46,7 +47,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 -React documentation
--Flex
 
 ## Author
 
