@@ -22,6 +22,14 @@ Landing page
 
 ### Screenshot
 
+![Uploading Screenshot 2024-01-14 at 10.06.26 PM.png…]()
+
+![Uploading Screenshot 2024-01-14 at 10.08.55 PM.png…]()
+
+![Uploading Screenshot 2024-01-14 at 10.08.59 PM.png…]()
+
+
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
