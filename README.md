@@ -22,8 +22,9 @@ Landing page
 
 ### Screenshot
 
-
-
+<img width="1433" alt="Screenshot 2024-01-28 at 7 18 10 PM" src="https://github.com/madhura-punde/Easy-bank-landing-page/assets/101276214/b75eb428-a3f5-4dd7-913d-88535e8e190c">
+<img width="1420" alt="Screenshot 2024-01-28 at 7 19 11 PM" src="https://github.com/madhura-punde/Easy-bank-landing-page/assets/101276214/bf5f5957-cf6b-4d46-bfc3-b9f247375eae">
+<img width="1416" alt="Screenshot 2024-01-28 at 7 19 20 PM" src="https://github.com/madhura-punde/Easy-bank-landing-page/assets/101276214/714ebd54-02d0-4184-b328-7d1b9ff247e8">
 
 ### Links
 
